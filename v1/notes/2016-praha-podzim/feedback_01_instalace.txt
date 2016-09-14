@@ -1,0 +1,37 @@
+# 1. lekce, učila @zuzejk, přepsal H. Javorek
+
+## Zelené papírky
+
+- Jak říkáš - neboj se toho! Děláš to dobře a dělej to dál.
+- Všichni jste byli moc krásní, milí a sympatičtí! :) Nejdřív jsem se trošku bála, jestli si nebudu připadat jako neschopná ňouma, ale jste hrozně hodní a nápomocní! :) + je to kůl a sranda
+- Jste SUPER! DÍKY! Zuzčin úvod byl skvělej - dost formální na to, abysme to tu brali vážně a zároveň dost přátelskej na to, abysme se tu necítili nekomfortně. Pomoc tolika koučů jednotlivcům se specifickýma potížema je úžasná. Je to lepší, než se nějak hlásit a ptát celý třídy.. 1*
+- Super prostředí, všichni jste moc milí, ochotní pomoct a ták =) Zuzko nemusela ses cítit děsně, byla jsi super :)
+- Skvělá práce instruktorky / koučky. Krásný úvod do programování. Pohotovost doprovodných koučů. Vše je srozumitelný, přívětivé tempo. Lístečková metoda.
+- Trpělivost. Zuzka je super, já chci být jako Zuzka :) Bezva místnost!
+- Dnešní lekci nemám co vytýkat. Vše srozumitelné, a když jsem si nevěděla rady, skvělý support od asistentů. Díky :)
+- Velmi příjemně strávené 2 hodiny. Díky :-)
+- Vše pěkně vysvětlené. Systém s lístečky se mi moc líbí a přijde mi názorný.
+- Feedback? Za mě supr, těším se na další lekce. A jestli ten feedback nepatří sem, tak se oficiálně omlouvám :-)
+- Organizace super!
+- Kouči milí, plní energie, ochotní pomáhat. Velmi hezké a příjemné zázemí. Představování byl super nápad. Mnohem lepší, než si to dělat doma sám. Moc hezká sukně, Zuzi.
+- Skvělý, spousta nových informací, to ale do týdne vstřebám :) Neztratila jsem nadšení a to mi to dnes moc nešlo. Díky!
+- Skvělá úvodní přednáška! Moc se mi líbí Vaše nadšení, podporuje mě to v mém nadšení (snad ne dočasném)
+- Jů! Dobrý! Ta trpělivost, když nemůžete sáhnout na klávesnici - to je hodný obdivu a ponaučení =)
+- ☀ (sluníčko)
+
+## Červené papírky
+
+- [nada](https://en.wiktionary.org/wiki/nada#Spanish) :)
+- Nerada mluvím před lidma. Ale i to jsem zvládla. Takže paráda :)
+- Zatím nemám co bych vytkla
+- Maličko zmatené, chvíle čekání, ale s tím se dalo na první hodině počítat.
+- První hodina byla pro mě hodně zmateční => 3x stahování Pythonu, do toho jsem samozřejmě nestíhala vnímat přednášku, takže jsem v podstatě z toho nic moc neměla => Pak mi každý říkal jinak 1 raz tenhle příkaz, raz jiný což bylo matoucí
+- Bylo by dobré mít možnost se připojit k těm monitorům na stolech
+
+Poznámky hlavního kouče aka Zuzejk:
+časově všechno vyšlo na jedničku, konec přesně ve 20.00. 
+Rozesazení dle operačního systému jsem načrtla šipkama na projektoru při příchodu a myslim že to docela pomohlo.
+Vedlejších koučů bylo víc ale myslím že to vůbec nevadilo, 6-7 na 20 holek
+Došlo tam k nějakému šílenému záseku, kdy jedné slečně nešel vytvořit venv kvůli chybějící části pythonu, (prosím Vaška o doplnění)
+
+Tip: příště rovnou vzít na flešce stažené instalátory, někdo má pomalejší počítač, tak by se mu tím mohlo pomoct
