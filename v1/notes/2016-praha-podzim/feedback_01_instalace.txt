@@ -32,6 +32,6 @@ Poznámky hlavního kouče aka Zuzejk:
 časově všechno vyšlo na jedničku, konec přesně ve 20.00. 
 Rozesazení dle operačního systému jsem načrtla šipkama na projektoru při příchodu a myslim že to docela pomohlo.
 Vedlejších koučů bylo víc ale myslím že to vůbec nevadilo, 6-7 na 20 holek
-Došlo tam k nějakému šílenému záseku, kdy jedné slečně nešel vytvořit venv kvůli chybějící části pythonu, (prosím Vaška o doplnění)
+Došlo tam k nějakému šílenému záseku, kdy jedné slečně nešel vytvořit venv kvůli chybějící části pythonu, (nebyl k dispozici modul ensurepip, protože se jednalo o nějaký ořezaný python - notebook od přítele) - nechtěli jsme se v tom přítelovi moc hrabat - vyřešeno krátkodobě parametrem --without-pip, příště bude mít svůj ntb s plnohodnotným pythonem.
 
 Tip: příště rovnou vzít na flešce stažené instalátory, někdo má pomalejší počítač, tak by se mu tím mohlo pomoct
