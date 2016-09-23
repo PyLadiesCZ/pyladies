@@ -1,0 +1,30 @@
+# 1. lekce, učila Týna
+
+## Zelené papírky
+- Kouči milí, rychlí, ochotní. Bezva kafe
+- Dneska to bylo "bezva + skvělý". Pokyny na webu jsou fakt úžasně zpracovaný. Moc Dík!
+- Velmi přátelská atmosféra, spousta coachů ochotných pomoct.
+- Dnešní lekce opět super. Moc mě bavila hra kámen, nůžky, papír. :)
+- Alles Gutte :) Tempo ok, vše pochopitelné. U posledního úkolu by bylo fajn víc času na pokus/omyl..
+- Všechno super :)
+- Už to začíná nabírat obrátky :) Zatím to jde, jen si připadám, že na to ještě musím "vyvinout to správný myšlení.." Je to zatím dost o opisování, tak snad si to časem sedne a ty příkazy začnou být víc ukotnevené a přijde i to myšlení programátora.
+- Koučové super aktivní a nápomocní. Díky!
+- Pěkně připravené
+- Dnes se mi opět dostala spousta pomoci, díky. Na dnešek byly domácí projekty lehké, ale doufám, že příště je víc probereme, abysme zjistili, jak to šlo.
+- OK!
+- Přehledně vysvětleny základy programování.
+- Děkuji moc za ochotu a pomo.
+- Za mne supr. Jen dorbnost, která někomu zabere spoustu času -> bylo by možné, aby na webu v materiálech byla zvýrazněná syntax?
+- Díky za dnešní lekci! Je to super! Sorry, že se tolik neptáme, ale zatím toho moc neumíme, tak není tolik dotazů. ?oc se mi líbí podklady na webu a dnešní hra kámen, nůžky, papír je super! (Díky Petře!)
+- V mežičase by možná nevadilo, kdybyste povídali víc o Pythonu, pozadí/vysvětlení toho, co děláme. Např. datové typy, funkce a spol. :)
+- Lekce se mi líbila, dnes byla zajímavá praxe. Vysvětlení lektorky bylo sorzumitelné. Rychlost koučů byla větší než rychlost světla :)
+- Dobré tempo vysvětlování, dobré příklady
+
+
+## Červené papírky
+- Ty dvě hodiny mi hrozně utečou. Skoro bych možná uvažovala o třech. :)
+- Ify mohly být vysvětleny na jednodušším příkladě.
+- Nemám co vytknout
+- Trošku zmatenější vysvětlování než minule
+- Občas nebylo zná, z jakýho materiálu čerpáme
+- Zdá se mi to trochu zmatené. NEřekli jsme si, jak definovat proměnou a přitom já s tím nemám předešlé zkušenosti.
