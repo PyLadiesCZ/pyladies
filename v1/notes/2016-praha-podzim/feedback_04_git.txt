@@ -1,0 +1,55 @@
+Zelené lístečky
+===============
+
++ perfektní materiály na PyLadies; ochotní kouči a koučky; ideální tempo
++ když jsem se neztratila, tak jsem rozuměla výkladu skvěle
++ děkuji za hezký výklad
++ Git je cool! Můj vnitřní control-freak byl dneska moc spokojenej. :) Dobrej projev, celkem přehledné líčení. Ten tahák by se hodil, ale dalo se to i bez něj. Dík za milej přístup a trpělivost. :)
++ Honza vypráví hezky, dá se to pochopit, jen klidně i ty rádoby nepodstatný věci, postupy říkej klidně nahlas (a né pod fous :)), aby se člověk neztrácel :) ; + by bylo super se před nějakým tvořením klidně zmínit o nějakém praktickém užití, ať si to jeden líp představí...
++ hodina se mi opět líbila, naučila jsem se základy v Gitu, což je super. Líbí se mi, že to není jen o pythonu, ale i něco víc
++ Honzo, děkuji, perfektní. Snad jen jedno malé doporučení: napíšeš 2 nebo 3 příkazy poměrně fofrem a pak překlikneš jinam a člověk už nevidí cos psal :-o
++ Super lekce, opět se mi moc líbilo. Support taky super. Díky všem :)
++ jasně & strukturovaně vysvětleno
++ Škoda na ten zběsilý závěr o větvení, jinak všechno bylo srozumitelně a pomalu vysvětleno. Ve větvení jsem se úplně ztratila, tak snad to doma zvládnu ještě nějak pochopit.
++ super!
++ Velmi dobré rozložení času, přišlo mi, že jsme stihli i to, co jsme neměli.
++ Pěkně logicky vysvětlené
++ Co chcete zlepšovat? Za mne super a děkuji.
++ Dneska hustý, rychlý. Super bylo když Honza po částech výkladu rekapituloval - to pomáhá. Jinak vysvětluje moc pěkně. Koučové taky super. Díky!
++ Úkoly jsem měla z domu, takže probírání úkolů bylo v pohodě. :) Těch git příkazů je hodně, ale už se orientuju. Chápu, že je těžký nám to v 2 hodinách vysvětlit, ale s domácí přípravou to myslím stačí. Díky! Myslím, že je to hodně na nás. :)
+
+jeden univerzální zelený lístek:
++ logická struktura výkladu
+- klíčové kroky vícekrát zopakovat (občas to bylo příliš rychlé)
+díky za přednášku
+
+
+Červené lístečky
+================
+
+- NADA. [pozn.: opět španělsky, Naďa nikomu nevadí]
+- Hafo cvičení doma - ale to je bezva ;)
+- super, je vidět, že tomu rozumíš, ale možná by to chtělo trochu pomaleji pro nás, co to vidíme poprvé :)
+- Dnes nemám žádné - hodina se mi líbila. Nenastal u mě žádný problém. Takže za mě vše OK
+- občas jsem se ztratila ve výkladu, ale spíš to bylo v tom, že když jsem něco zkoušela, tak jsem nepostřehla, že jdeme dál :)
+- zezadu jde hůř vidět
+
+Moje poznámky (Kokoška)
+=======================
+
+K průběhu:
+
+  * nezapomenout vytisknout tahák! usnadní to pak nutnost připomínat funkci každého příkazu - že už je to ten, který jsme přece několikrát použili minule. bez toho jsem viděl, jak holky začínají zoufale koukat, co se to děje. i když ta průběžná rekapitulace ve chvílích ticha má taky smysl.
+  * hodně trvalo stahování a instalace (více níže) a větve proto byly hodně letem světem - nestihl jsem názornou ukázku merge conflictu
+  * note for self: pořádně si projít úkoly z předchozí lekce, třeba si vzpomenout, jak se kreslí domeček jedním tahem a vyzkoušet všechny úkoly před lekcí, abych nebyl za blbce
+  * note for self 2: taky si na prezentačním PC vyzkoušet, že vše funguje, včetně gitk
+
+K obsahu a materiálům:
+
+  * na začátku se holky s *nix systémy koušou nudou, přitom můžou aspoň ověřit, zda mají dobrý editor, nainstalovaný gitk (Mac OS), apod.
+  * stahování a instalace trvá občas dlouho a můžou nastat problémy - nebylo by od věci zadat stažení Gitu pro Win jako úkol na doma a připravit si pár flashek na půjčení. zároveň si to tam chce připravit dost vaty na kecání nebo přizpůsobit výklad (nejprve stahujeme, pak motivační řeč - ale ne všichni pak udrží pozornost)
+  * vůbec nevím, jak gitk dostat na Mac - tentokrát se nenašel ani žádný jablíčkář mezi vedlejšími kouči
+  * chybí zmínka, jak na *nix nastavit jiný editor, pokud je default VIm [přidám jako PR] - problém prakticky všech Maců
+  * měl by být zmíněn i `git reset HEAD <file>` jako protiklad `git add <file>` - odkázal jsem na obligátní "čtěte, co vám to píše", pokud by se někdo dostal do situace, že "zezelená" soubor, který commitovat nechce
+  * jak sakra změnit rozbitou diakritiku ve Win? :) zaklínadlo `chcp 1250` to rozbilo ještě víc, pokusy nastavit unicode taky selhaly. uzavřeno jako "sestimsmiř" - chtělo by to zmínit jako "known issue" nebo uvést návod k opravě
+  * abych jen nekritizoval - ačkoliv jsem si materiály projel až asi dvacet minut před lekcí a během lekce zběsile létal na (sekundární) obrazovce notebooku, abych věděl, co dál, vysvětlovalo se podle toho dobře :)
