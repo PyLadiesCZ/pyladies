@@ -1,0 +1,35 @@
+Kladná zpětná vazba
+===================
+
++ hezky teoreticky vysvětleno a až pak ukázáno prakticky
++ i přesto, že jsem trochu ztracená, pár věcí jsem zase trochu pochopila
++ hodina se mi líbila, testování mě velmi zajímalo
++ logicky vysvětlováno
++ výklad byl moc dobrý, jen me to paradoxně nutí míň programovat, ale chápu, že víc samostatných úkolů během hodiny by se stihnout nedalo, díky
++ hezky předneseno, pěkné boty
++ hustý, to svištělo (Bezva výklad. Pivo nechci, protože je úterý, sorry. A protože jsem stydlivá.)
++ Gut!
++ máš můj obdiv -- dokážeš dobře přednášet
++ dobře zvolené tempo, srozumitelný výklad, sympatickej kouč =), okamžitá pomoc při problému
++ Oskar je zlatý
++ není ti co vytknout
+
+Záporná zpětná vazba
+====================
+
+- utekly mi vsuvky na whiteboardu
+- bylo to dnes děsně rychlý a moc jsem nestíhala chapat, co se děje
+- občas jsem se ztratila ve výkladu, ale nejspíš je to tím, že jsem se ztratila v nějaké předešlé lekci :)
+- červená fixa na tabuli není pro sleponě čitelná
+- chvílema to svištělo až moc
+- krapet rychleji než předchozí koučové, ale trochu to patří i do toho zeleného
+- dnešní lekce byla pěkný záhul, nu -- doma to snad doženu :)
+- občas zmatený výklad, takže jsem se ztrácela
+- nebylo by na škodu mluvit hlasitěji nebo s klidem
+
+Komentáře kouče (Oskar)
+=======================
+
+* celkově je to poměrně nabitá lekce, ale dá se stihnout bez větších problémů, nemělo by smysl z ní něco přesouvat, přetáhl jsem cca o 5 minut
+* byl tam moc pěkný moment, kdy jsem zadal samostatnou práci, chvíli bylo ticho a pak všechny začali švitořit, radit se mezi sebou a s kouči, a nakonec to skoro všechny zvládly
+* zpětná vazba na mě jako vždy -- někdy mluvím zmateně, ale myslím, že to bylo lepší než dřív, stalo se mi to, když jsem mluvil o něčem, co jsem neměl připravené (`with` statement), ale Martin mě trochu podržel a nakonec jsme to vysvětlili obstojně
