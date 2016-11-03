@@ -1,0 +1,22 @@
+Hodinu vedl Peter Hozak, sepsala Veronika Gabrielova
+
+zelené papírky:
+- supr vysvětlování vysvětlování vysvětlování :-)
+- dobře vysvětleno, někdo mi tu poradil přečíst si lekci předem - hodně to pomáhá!!!
+- zajímavá hodina
+- téma mi přišlo složitější než GIT, ale až pouze ke konci jsem trochu ztrácela pozornost a dopochopila to v úkolu
+- nakreslený palec nahoru
+- Jupyter je hodně přehledný pro vysvětlování, líbí se mi, že hned vidíme výsledek
+- nepřeklikávalo se na příkazovou řádku, nebylo to tak zmatene jako s ni
+
+červené papírky:
+- trošku pomalejší tempo, ale chápu důvody, jinak to dnes bylo super
+- dlouho mi trvá než proniknu do principů konkrétní věci
+
+
+Poznámka organizátorky Veroniky:
+hodina byla extrémně přehledná, svůj podíl na tom má jednoznačně Jupyter Notebook a skvělá příprava Petra materiálů předem. 
+Nic neumazaval, nepreklikával na terminál, vše bylo hezky vidět pod sebout i s printama. 
+Naprosto skvěle vysvětlil globální a lokální proměnné na příkladu v Jupyter Notebooku, 
+vyprintil oba výsledky a ta možnost vidět to vše pohromadě byla fakt přinosna.
+Měla jsem z toho opravdu dobrý pocit a všimla jsem si, že to holky bavilo, když zjistily, že převážně chápou.
