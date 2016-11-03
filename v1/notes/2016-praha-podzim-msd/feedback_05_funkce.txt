@@ -1,0 +1,29 @@
+Hodinu vedl Peter Hozak, sepsala Veronika Gabrielova
+
+zelené papírky:
+- supr vysvětlování vysvětlování vysvětlování :-)
+- dobře vysvětleno, někdo mi tu poradil přečíst si lekci předem - hodně to pomáhá!!!
+- zajímavá hodina
+- téma mi přišlo složitější než GIT, ale až pouze ke konci jsem trochu ztrácela pozornost a dopochopila to v úkolu
+- 👍
+- Jupyter je hodně přehledný pro vysvětlování, líbí se mi, že hned vidíme výsledek
+- nepřeklikávalo se na příkazovou řádku, nebylo to tak zmatene jako s ni
+
+červené papírky:
+- trošku pomalejší tempo, ale chápu důvody, jinak to dnes bylo super
+- dlouho mi trvá než proniknu do principů konkrétní věci
+
+
+Poznámka organizátorky Veroniky:
+hodina byla extrémně přehledná, svůj podíl na tom má jednoznačně Jupyter Notebook a skvělá příprava Petra materiálů předem. 
+Nic neumazaval, nepreklikával na terminál, vše bylo hezky vidět pod sebout i s printama. 
+Naprosto skvěle vysvětlil globální a lokální proměnné na příkladu v Jupyter Notebooku, 
+vyprintil oba výsledky a ta možnost vidět to vše pohromadě byla fakt přinosna.
+Měla jsem z toho opravdu dobrý pocit a všimla jsem si, že to holky bavilo, když zjistily, že převážně chápou.
+
+Poznamky kouca Petra:
+- handouts3b (domaci projekty 4) uloha 14. obsahuje poznamku o trojuholniku a tabulke - ma to nejaky vyznam?
+- o 20:00 sa automaticky vypinali projektory a zatahovali platna
+- malo otazok na domace ulohy a tazko povedat ci im rozumeli alebo sa nechceli priznat ze nerobili
+- sikovnejsie ucastnicky sa casto nudia kym ostatne dokoncuju samostatnu pracu, zislo by sa ich nejak zapojit doplnujucimi ulohami.. napr. nech si zacnu robit domace projekty k uz vysvetlenej teme??
+- inak super priestor - bez obrazoviek na stoloch lepsie vidno na ucastnicky ze ci stihaju a ci chapu!
