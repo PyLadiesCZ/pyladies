@@ -1,0 +1,32 @@
+Kladná zpětná vazba
+===================
+
++ Super hodina, Oskar skvělej. Škoda, že nemohl víc povídat o Free Software -- zajímavý!
++ Git super, ale musíme si samy hodně pocvičit! Díky všem koučům!
++ Supr, srozumitelný. Díky.
++ GitHub skvěle vysvětlený a moc mě práce s ním bavila.
++ I developer je fajn filosof :)
++ Téme o GitHubu se mi velmi líbilo a myslím, že je to velmi užitečné, takže jsem ráda, že se o tomhle mohu dozvědět víc i v praxi 
++ `for oskar in range(2): print('srdce')`
++ Malůvky super, pomáhají:)
++ Zrychlený závěry jsou vždycky bezva -- kdo by neměl rád nalejvárny.
+
+
+Záporná zpětná vazba
+====================
+
+- Prosím nevysvětluj nic nového, když už nemáš dost času => absolutně se v tom pak ztrácím.
+- Mohli bychom někdy zkusit líp/konkrétněji vysvětlit, k čemu všemu se může Python hodit? S příkladama? Třeba co vy děláte v práci?
+- Trochu rychlé, ztratila jsem se 2x.
+- Pomohlo by mi trochu víc opakovat předchozí hodinu nebo na konci hodiny to, co jsme udělali.
+- Trochu jsme čekali, až to všichni budou mít.
+- Super pomalé dneska :(
+
+
+Poznámky kouče (Oskar)
+======================
+
+* Největší chyba byla, že jsem zapomněl, že jsou tam kromě spolupráce a open-source i soubory, nakonec jsem to ale za těch 15 minut nějak vysvětlil.
+* Myslím, že jsem konečně nemluvil zmateně a celou dobu to celkem mělo hlavu a patu.
+* Petr Messner měl z pohledu kouče v poli dobrý postřeh o tom, že holky si gitovou větev pojmenovali např. svým jménem a pak si stejně pojmenovaly i remote, takže pak zadávali příkaz ve smyslu `git push pavla pavla`, což je dost matoucí, materiály pracují s masterem, tak bychom se toho pro příště měli držet. Já chtěl ukázat, jak se do masteru integruje "feature branch", což bylo na poprvé stejně asi příliš mnoho informací.
+* Celkově jsem si myslel, že je to volnější hodina, ale ona je docela našlapaná, pokud holky pozapomenou Git a ještě jsou tam navíc ty soubory.
