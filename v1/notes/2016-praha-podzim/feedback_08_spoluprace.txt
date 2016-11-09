@@ -30,3 +30,6 @@ Poznámky kouče (Oskar)
 * Myslím, že jsem konečně nemluvil zmateně a celou dobu to celkem mělo hlavu a patu.
 * Petr Messner měl z pohledu kouče v poli dobrý postřeh o tom, že holky si gitovou větev pojmenovali např. svým jménem a pak si stejně pojmenovaly i remote, takže pak zadávali příkaz ve smyslu `git push pavla pavla`, což je dost matoucí, materiály pracují s masterem, tak bychom se toho pro příště měli držet. Já chtěl ukázat, jak se do masteru integruje "feature branch", což bylo na poprvé stejně asi příliš mnoho informací.
 * Celkově jsem si myslel, že je to volnější hodina, ale ona je docela našlapaná, pokud holky pozapomenou Git a ještě jsou tam navíc ty soubory.
+
+Zuzejkovy poznámky k organizaci:
+příště teda holkám pár dní před lekcí napsat, ať si pořádně připomenou git a vezmou si git tahák
