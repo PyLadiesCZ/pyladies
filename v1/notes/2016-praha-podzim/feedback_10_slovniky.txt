@@ -1,0 +1,15 @@
+zelené papírky:
+- Super lekce. Děkuju :)
+- Dneska naprosto pecička
+
+červené papírky:
+- Dlužíš mi pivo
+- nic
+- Moc jsme se zdrželi domácí projekty a to je škoda -> možná je dělat až na konci, když zbyde čas.
+- Já děkuju za lekci a vůbec nevím, co vytknout...
+- Je mi líto, že Vaškovi nikdy nevyjde čas a nakonci to musí děsně dohánět
+
+poznámky hl. kouče:
+- Doprobíráním látky z minula (split a join) a úkolama jsme se zdrželi tak, že jsme na konci přetáhli o 15 min. a nestihli jsme udělat cvičení na JSON a github API, což jsem jim na začátku slíbil. :-/
+- piškvorkový turnaj jsem pustil a ukázál jim, že odevzdané strategie neprojdou testama, poprosil je, ať udělají nové verze a pošlou tak, aby s tím příště Oskar neměl tolik práce.
+
