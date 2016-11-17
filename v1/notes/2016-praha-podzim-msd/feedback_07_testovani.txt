@@ -1,0 +1,17 @@
+zelene:
+- chlebicky ❤
+- super nemam zadnu vytku :-)
+- me se to libilo! ale nebavilo me to testovani je divny
+- radost kdyz se neco podari
+- kluci super, pomahaji, vysvetluji jsou trpelivy!! :) pokracovat zatim stejne jako doposud :)
+- diky! hezky vysvetleno! jen, kdyz jsme si nejdriv vysvetlili kod, uvitala bych trosku vic caseu, aby jsme si to stihly zapsat. diky! :-)
+
+cervene:
+- projektor
+- jsem pozadu, nestiham, ale to je moje chyba ;)
+- nemam namitky
+
+poznamky kouca (Peter H):
+- to zdvihanie platna o 20:00 je celkom otravne
+- materialy o testovani dost nadvazuju na piskvorky, problem ze zadanie piskvoriek len na domacich ulohach moze byt trosku odstrasujuce,
+  na predoslej hodine by asi bolo dobre vysvetlit princip piskvoriek, nech sa toho nezlaknu doma...
