@@ -1,0 +1,18 @@
+zelené:
+- Dnes moc nemám. Trochu méně záživnější téma. Těším se na piškvorky =)
+- Hezky vysvětlené. Díky :)
+- Všechno bylo OK :)
+- Pěkný, srozumitelný. Díky =)
+- Skvělej coach Jakub =) Moc hodnej.
+- Srozumitelný, paráda.
+- Koučové super!
+
+červené:
+- Asi jestě trošku pořešit vysvětlování GITu. Kdybych s tím nepracovala, tak asi moc nevim. Kluci se moc snažili, jenom je to těžší pochopit, pokud s tím člověk nepracuje.
+
+poznámky kouče (Aleš Z.):
+- Nedostal jsem se k souborům. Škoda, to je docela zábavný téma. Navíc po hodně 'povídacím' tématu se hodí zase víc prgat.
+- Zamyslet se nad ukázkovým PR. Přidat jeden soubor s vlastním jménem byl pro někoho matoucí. Zdálo se, že změny do programů (piskvorky.py) se dělá tak, že přidám nový soubor s vlastním řešením a čekám, jak se s tim git a/nebo maintainer popere. 
+  Bylo by zajímavý mít jako ukázku jeden soubor, kde je možných (oddělených) změn a každé přiradit jednu k opravě.
+- Účastnice super. Ptaly se, byly aktivní. Nenechaly mě v tom :)
+- Díky ostatním koučům!
