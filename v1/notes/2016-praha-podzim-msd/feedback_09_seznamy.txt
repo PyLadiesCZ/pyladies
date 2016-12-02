@@ -1,0 +1,23 @@
+﻿zelené lístečky:
+
+- print('TADA')
+- Moc hezky a názorně vysvětleno! Díky moc!
+- parádní lektorka
+- super to bylo :)
+- bezva, super, že vysvětleno u každého zápisu (každé části), co to je a proč to tam píše. Dalo se pochopit i na místě bez 'předčtení'  materiálu (asi ženská logika :))
+- koučové jsou super, moc díky :)
+- [kouč feedback] - Super! Jak mi niečo napadlo, hneď si to povedala sama :)
+
+červené lístečky:
+
+- Už je toho spousta, začínám se v tom ztrácet, když máme kombinovat víc věcí je těžší si vzpomenout, kt. jsme všechno probrali. Asi bych uvítala víc procvičování, aby se mi to nepletlo.
+- couch super. Moc hezky vysvětluje ne úplně záživnou věc. Na konci bych možná nechala N-tice na samostudium, než to takhle rychle vysypat :)
+- nerada dělám přímo v interaktivním pythonu, protože to 'ztratím' (nemůžu se k tomu vrátit po vypnutí řádky). Příliš mnoho úkolů, nemám čas na tolik úkolů
+- chyba je vo mne
+
+feedbach kouče (Zuzka K.):
+- holky se hodně ptaly, což bylo skvělé, protože to vždycky oživí jinak třeba nudný výklad
+- trochu mě ale zarazilo, že samy moc nedávaly dva vnořené for-cykly. Ale to asi přijde časem, jsou začátecnice.
+- Ohledně ví procvičování - snažila jsem se nechat prostor na samostatné úkoly, ale látky bylo hodně. Možná se nemusí těch seznamů odpřednášet na 100pro úplně všechno, ale raději holky nechat, aby si s nimi chvilku pohrály samy.
+- k poznámce k interaktivnímu pythonu - naprosto chápu účastnici. Bohužel mě nenapadlo, jak seznamy vysvětlovat pouze psaním v editoru. A myslím, že i CZ.NICu se u seznamů jelo hodně v interaktivním pythonu.
+
