@@ -1,0 +1,20 @@
+Kladná zpětná vazba
+===================
++ díky! díky! díky! skvělý! boží! úžasný! 
++ asteroidy a had byly nejlepší lekce, moc děkuji za PyLadies
++ díky za všechno, nejen tobě, ale i ostatním koučům
++ parádně jsi se zhostil asteroidů, štěstí, že jsi se uzdravil
++ žůžo, super tempo, super čas na zkušenou, super
++ Milý všichni a všechny v PyLadies! Díky MOC za zasvěcování do Pythonu a programování, jste úžasný! Dáváte do toho vlastní čas a síly, zadarmo. To je dneska naprostý unikát. Jste vážně skvělý. Díky moc za všechno. Díky koučům, vedlejším koučům a organizátorkám, pomocníkům a pomocnicím a CZ.NICu!
+
+
+Záporná zpětná vazba
+====================
+
+- nejdeš na pivo, takže velký špatný
+- 2 hodiny a žádný plameny, chápu, že je to těžký
+- uteklo to moc rychle
+
+Poznámky kouče
+==============
+* jako tradičně jsme zvládli pohyb raketky a udržet ji v hracím poli, víc se za hodinu nedá, aby nebylo jen bezduché opisování kódu
