@@ -1,0 +1,23 @@
+Kladná zpětná vazba
+===================
+
++ skvělá a zábavná hodina, všechno skvěle vysvětlený
++ had byl skvělej, tempo ok, vysvětlování bezva
++ moc se mi líbí, když jedeme podle materiálů na netu -- dobře se mi v tom pak orientuje (a opakuje)
++ super názorný, pohodový tempo, 5 hvězdiček
++ na dnešní hodině bylo super, jak kouč pracoval s publikem, děkuji
++ dneska super, pomalý začátek, ale to se stane (pozn. kouče: naráží na technické problémy, které mě potkali)
++ super, těším se na práci na doma! HA HA:-) HADI!
+
+
+Záporná zpětná vazba
+====================
+
+- Oskar je super, ale mluví potichu
+- furt mi hlava nebere to zadání piškvorkového turnaje, byla bych ocenila všechny podmínky dopředu a specifikovat zadání, takhle se furt cejtim jako blbec a nevím, co přesně mám změnit. Mohli bychom dostat ten kód testů, podle kterých se to boduje?
+- písmenka na obrazovce bylu moc malý, jsem slepýš
+
+Poznámky kouče
+==============
+* čelil jsem technickým problémům na všech frontách, něco se mi aktualizovalo a Pyglet přestal fungovat, musel jsem to pouštět s `LC_ALL=en_US.UTF-8`, což mi Kokoška naštěstí pak poradil. PC s Ubuntu, které tam bylo mi zase dělalo problémy v kombinaci Pyglet-Projektor
+* had je pohodová a zábavná hodina, i přes ty technické problémy jsme to stihli a holky se zdály spokojené
