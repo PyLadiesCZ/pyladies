@@ -1,0 +1,37 @@
+ZELENE LISTECKY
++ uběhlo to rychle, výklad srozumitelný, nemám co vytknout
++ milí kouči, systém papírků, představení se a možnosti, co se dá dělat po kurzu
++ hodně koučů, nabídka pokračovacích kurzů
++ skvělá motivační první lekce, těším se na další
++ myslela jsem si, že se nic nenaučím, ale určitě to nebyla pravda (umět instalovat potřebný software je taky skill)
++ všichni koučové byli moc ochotní a trpěliví
++ pěkný úvod pro lidi, kteří se s programováním ještě moc nesetkali
++ podrobné návody na stránkách
++ rychlost, příjemné prostředí
++ zatím vše ok, bez výhrad
++ až děsivě rychlé reakce na červené lístečky
++ líbily se mi osobní tipy koučky, myslela jsem si, že programátoři jsou spíš samotáři (myslím na networking)
++ :thumbs up:
++ líbíte se mi :)
+    -> vy nám taky :) 
++ neformální, přátelský výklad, nadšení a ochotní členové
++ super, v průběhu kurzu se určitě lépe synchronizujeme
+    -> určitě, první hodina je vždycky trochu chaotická, ale hned na druhém srazu už se tempo sladí
++ všichni organizátoři/kouči byli moc nápomocní, jak s instalací, tak s radami, co napsat do příkazové řádky
++ pozitivní naladění do dalších lekcí
+    -> tak to je hlavní!
+
++++ s if prosím pomalu 
+    -> vynasnažíme se, ale neváhej se ozvat hned na místě ve chvíli, kdyby ti něco nebylo jasné
+
+CERVENE LISTECKY
+- zbytečná hodina, stačilo odkázat v úvodním emailu a už se mohlo programovat
+    -> vždy se najde dost lidí, kteří by se doma s instalacemi zbytečně trápili. Navíc díky tomu, že jsme vše s pomocí koučů vyřešili na místě, můžete už přes týden procvičovat práci s příkazovou řádkou a na druhém srazu už z toho budete hodně těžit.
+- začátek byl docela dlouhý, už jsem se nemohla dočkat, až se začne :)
+    -> zkusím na příštím kurzu holky tak dlouho nenapínat :)
+- občas jsem se ztrácela v materiálech na webu, ocenila bych občas připomenutí, kde ty a ty pokyny najdu (když už se na ně pořád odkazuje)
+    -> díky za upozornění, dám si na to pozor. A příště se v podobných situacích neváhej ozvat, hlavní kouč pak na to může hned na místě reagovat a rád vše upřesní, dovysvětlí. To je velká výhoda živého kurzu oproti online videím. ;)
+- více popsat využití Pythonu
+    -> moje chyba, vypadlo mi to z prezentace, napravíme na druhém srazu (a mimochodem je to dobré téma i k afterpivu, vedlejší kouči a zkušenější PyLadies se tam můžou rozpovídat) :)
+- materiály nejsou uplně dovysvětlené, ale jsou super -> např. dělala jsem něco podle materiálů a nevěděla jsem ani, co vlastně nastavuju - nemohla jsem to zkontrolovat. Ale pořád jsou stručné a fajn.
+    -> zajímavý podnět na doplnění materiálů, zmíním se hlavním tvůrcům.
