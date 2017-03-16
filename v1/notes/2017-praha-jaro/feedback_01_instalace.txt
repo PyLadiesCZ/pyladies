@@ -35,3 +35,5 @@ CERVENE LISTECKY
     -> moje chyba, vypadlo mi to z prezentace, napravíme na druhém srazu (a mimochodem je to dobré téma i k afterpivu, vedlejší kouči a zkušenější PyLadies se tam můžou rozpovídat) :)
 - materiály nejsou uplně dovysvětlené, ale jsou super -> např. dělala jsem něco podle materiálů a nevěděla jsem ani, co vlastně nastavuju - nemohla jsem to zkontrolovat. Ale pořád jsou stručné a fajn.
     -> zajímavý podnět na doplnění materiálů, zmíním se hlavním tvůrcům.
+    
+Komentář hlavního kouče (Zuzka V.): čas vyšel přesně, poprvé se mi dokonce podařilo stihnout i instalaci gitu, ale bylo to podle mě na úkor řádného probrání cmd a prvních příkazů, holky si to tudíž musí pořádně pročíst a procvičit hlavně doma na základě materiálů. 
