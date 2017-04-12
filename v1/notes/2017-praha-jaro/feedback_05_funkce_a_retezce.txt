@@ -16,3 +16,20 @@
 - možná nemá smysl se ptát
 - líbilo by se mi více prostoru k psaní programů. Moc jsem nedávala pozor u výkladu a jela podle materiálů.
 - nemám.
+
+Poznamky kouca (Peter Hozak):
+* v materialoch zatial nie je vysvetlene na co su dobre lokalne premenne - napr. ked viac ludi napise vela funkcii,
+  nemusia sa bat ze sa budu navzajom ovplyvnovat (TODO pre mna: vytvorit PR pocas velkonocnej dovolenky)
+* chcel som ukazat priklad ze sa neda prepisat globalna premenna, ale nasledovny priklad vyhadzuje `UnboundLocalError`
+```
+x = 12
+def nastav_x():
+    x = x + 1
+```
+  ^ povodny priklad v materialoch nevyhodi ziadnu chybu, lebo sa nesnazi prepisat globalnu premennu, ale len lokalny argument
+```
+a = 30
+def obsah_elipsy(a, b):
+    a = a + 3
+```
+  ^ t.j. chyba kouca, netreba doplnat do materialov
