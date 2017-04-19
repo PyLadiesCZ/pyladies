@@ -1,0 +1,35 @@
++ líbí se mi to udělátko, kde vidíme rovnou výsledek (Jupyter)
++ super vysvětlení problematiky funkce vs metoda
++ dobrý způsob vysvětlení
++ srozumitelný a interaktivní výklad, líbí se mi kladení otázek
++ funkce určitě využiji v práci, takže jsem ráda, že jsem se je v Pythonu naučila
++ logické vysvětlení fungování řetězců + snaha o zapojení publika :-)
++ dnes to bylo nějaké složité, ale obohacující jako vždy
++ jasně vysvětlené, hezky připravené
+
+- zezačátku jsi mluvil trochu potichu :) pak se to zlepšilo, nestyď se, učíš dobře, pro mě by mohlo být rychlejší tempo a více samostatného kódování
+- jediná věc že lekce byla ve slovenštině :D
+- trochu rychle
+- občas Peter mluvil moc rychle :(
+- none
+- none
+- možná nemá smysl se ptát
+- líbilo by se mi více prostoru k psaní programů. Moc jsem nedávala pozor u výkladu a jela podle materiálů.
+- nemám.
+
+Poznamky kouca (Peter Hozak):
+* v materialoch zatial nie je vysvetlene na co su dobre lokalne premenne - napr. ked viac ludi napise vela funkcii,
+  nemusia sa bat ze sa budu navzajom ovplyvnovat (TODO pre mna: vytvorit PR pocas velkonocnej dovolenky)
+* chcel som ukazat priklad ze sa neda prepisat globalna premenna, ale nasledovny priklad vyhadzuje `UnboundLocalError`
+```
+x = 12
+def nastav_x():
+    x = x + 1
+```
+  ^ povodny priklad v materialoch nevyhodi ziadnu chybu, lebo sa nesnazi prepisat globalnu premennu, ale len lokalny argument
+```
+a = 30
+def obsah_elipsy(a, b):
+    a = a + 3
+```
+  ^ t.j. chyba kouca, netreba doplnat do materialov

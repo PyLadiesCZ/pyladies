@@ -1,0 +1,19 @@
+zelene:
+* diky moc za organizaci a vas volny cas, je to super, ze se tomu venujete. latka je celkem obmenena
+  a budu hrozne rada za pokracovania dalsi aktivity
+* super kurz diky moc za vsechno!
+* moc diky! dneska moc dobre vysvetleno, i s prodlevama na opsani si kodu, kt. byl nejdriv vysvetlen. dekujeme!
+* lektor vysvetluje OK, vlastni pochopeni je horsi
+* kouc => super :) jako vsdy spokojena, hezke vysvetlovani, snaha odpovidat
+* ja dekuji, ze jsem tu mohl byt, ale silne nedekuje za zniceni iluzi - vite jakou jsem mel radost, kdyz jsem myslel,
+  ze jsem odhalil chybu? me srdce krvaci
+
+cervene:
+* bylo to tezky, ale za to si asi muzu sama, ze neprocvicuju. Ale jako byla tam spousta novych veci, tak nevim
+* Myslim, ze projekt je neumerne slozity nasim schopnostem po absolv. kurzu.
+  Myslim, ze lepsi by byli jednodussi ukoly na procviceni, vysvetleni mnozin + DÚ jako obvykle. Prednaseniji dobry :)
+
+poznamky kouca (Peter H):
+* zacal som vysvetlovanim ako pouzit metody z pygletu co je dost cierna magia ak si to ucastnicky nepamataju z hodiny o grafike :/
+* mozno by bolo lepsie zacat s existujucim kodom a uloha by bola doplnit features / fixovat issues
+* materialy funguju len ako zadanie, ale nie pomocka pre kouca co ma ako vysvetlit - mozno Oskara presvedcime aby nieco spisal

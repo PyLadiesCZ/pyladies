@@ -1,0 +1,38 @@
+Zelené lístečky
+===============
+
++ díky za vysvětlení základů Gitu, uvidíme v praxi, jak se nám podaří s ním pracovat a ukládat na GitHubu
++ zajímavá věc, kterou jsem neznala
++ dneska to bylo super, optimální tempo
++ vše v pohodě
++ kromě větvení jsem i přes občasné zmatení zvládla být v tempu a sledovat, co děláme:)
++ zajímavé téma
++ určitě se hodí umět
++ dobře se to chápalo (aspoň doufám, že jsem to pochopila). Bude to trvat, než to vstřebám.
++ lepší a lepší, každou hodinu zajímavější
++ super, jen mám děravou hlavu
++ bylo to obohacující, Oskar to vysvětloval dobře, akorát já jsem pomalejší
+
+Červené lístečky
+================
+
+- eště nikdy som nebyla tak lost, mírně matúcé je , že vzhled toho, co je na tabuly je iný oproti tomu, čo mám, ale vďaka velmi za pomoc:)
+- dlouho mi nešlo přihlásit se do GitHubu, trošku mi ujel vlak asi 20 minut před koncem hodiny
+- mechanicky jsem sledovala materiály, to celkem šlo, ale netuším, co se reálně dělo... čili tak, mírný frustrace:) Jak říkal Oskar... věřím, že Git je super, ale jde to těžko
+- trochu chaotický výklad → skákání sem a tam, asi by neškodilo trochu přípravy, aby to bylo laikům jasnější
+- docela nálož
+- nic
+- byla jsem trochu zmatená, doma si to projdu znovu
+- bylo by fajn mít zkušební účet na GitHubu, abychom na projekci mohly vidět, že postupujeme správně:) (aby lektor psal to samé, co my a měl stejné výsledky)
+- vůbec netuším, jak se mi podaří dát úkol na GitHub
+- možná by šlo dát nějaký úkol na přípravu dopředu? (bylo toho hodně najednou)
+- přijala bych rozsáhlejší vysvětlení jednotlivých pojmů
+- bylo tam na mě trochu hodně funkcí a místy jsem se trochu ztrácela
+
+Poznámky kouče
+==============
+
+* rozhodně si je potřeba příště vytvořit testovací účet na GitHubu a dělat přesně to, co holky, jinak je to matoucí
+* možná by neškodilo kecy o open-source přesunout někam doprostřed, aby si u toho odpočinuly -- např. předtím než se jde zakládat účet na GitHubu, pomalejší aspoň stihnou dodělat ten první commit
+* párkrát mi ujely termíny, které jsem ještě nevysvětlil
+* příště pořádně vysvětlit rozdíl mezi GitHubem a Gitem, odkejvaly mi, že to znají a některé to neznaly
