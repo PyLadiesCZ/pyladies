@@ -1,6 +1,5 @@
+# Deprecated
 
-# Materiály pro Pyladies Brno
+Materialy => https://github.com/pyvec/naucse.python.cz
 
-Viz http://python.cz/pyladies
-
-Je to dělané rychle a jednoduše – čisté HTML. Editujte!
+Pyladies web => https://github.com/PyLadiesCZ/pyladies.cz
