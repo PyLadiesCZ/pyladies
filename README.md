@@ -1,6 +1,6 @@
 # Deprecated
 
-Tady jsou poznámky z kurzů PyLadies Cz.
+Tady jsou poznámky z kurzů PyLadies CZ.
 
 Hledáš-li stránku PyLadies CZ, koukni na https://github.com/PyLadiesCZ/pyladies.cz
 
