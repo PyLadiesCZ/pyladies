@@ -1,0 +1,18 @@
+lekce 30.10.2017 - koučové Zuzka Kašáková, Miro Hrončok
++ všechno skvěle vysvětlené :-)
++ To je skvělý nápad mít opakovací lekci!
++ procvičení cyklů i práce s git(hub)
++ systematické rozvržení hodiny
++ shrnutí příkazů git
++ Všechno super, moc děkuju. Možná zatím nejpřehlednější výklad. :-)
++ Hezky vysvětlené řešení příklady.
+
+- ke konci rychlé tempo
+- někdy je výklad tak rychlý, že sotva stíhám opisovat a už nestíhám přemýšlet nad dotazy
+- vysvětlování GITu bylo pro mne stále moc rychlé a nesrozumitelné. Snad příště to už pochopím. :-)
+
+Poznámka Zuzky:
+Měla jsem vytištěné složitější úlohy pro rychlejší holky, aby se nenudily
+(obdobný nápad navrhoval v některém z předchozím běhů Vašek), ale nebylo to
+nakonec potřeba. Vysvětlování hlavního kódu piškvorek a práce s githubem holky,
+myslím, dostatečně vytížilo;-)
