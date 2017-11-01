@@ -16,3 +16,6 @@ Měla jsem vytištěné složitější úlohy pro rychlejší holky, aby se nenu
 (obdobný nápad navrhoval v některém z předchozím běhů Vašek), ale nebylo to
 nakonec potřeba. Vysvětlování hlavního kódu piškvorek a práce s githubem holky,
 myslím, dostatečně vytížilo;-)
+
+Poznámka Mira:
+Za rychlé tempo se omlouvám, nedalo se to stihnout :(
