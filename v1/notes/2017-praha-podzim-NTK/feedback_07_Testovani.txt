@@ -1,0 +1,27 @@
+6.11.2017 - hlavni kouc Petr Motejlek
+
+zelené papírky:
++ dal sis práci s prezentací
++ pěkná, dobře připravená prezentace (+1)
++ ukázka IDE
+- hodně teoretická hodina, jednotlivosti jsem pochopila, ale nevěděla jsem k čemu jsou a jak je použít
+- občas moc velký podrobnosti -> ztrácíme se
+
+červené papírky:
+- víc praktického zkoušení a ukazování (ale moc díky za zajímavý výklad)
+- zajímavé téma, ale chtělo by to rozložit na dvě lekce
+- mně osobně více vyhovuje praktický přístup - learning by doing
+- nejspíš chybělo vysvětlení úplných základů a principu, chyběly názorné ukázky a postupy, které by se daly zopakovat
+- chtělo by to více příkladů, jinak je to těžce pochopitelné
+- přetáhli jsme
+- příliš dlouhý teoretický úvod, je fajn získat obecný přehled, ale přijde mi lepší, když můžeme programovat
+
+
+komentář vedlejších koučů:
+příklad s Foo jsem sám nepochopil :(
+
+komentář organizátorky:
+v podstatě souhlasím s většinou zpětné vazby od holek, hlavně bylo málo průběžného programování - od toho společné lekce jsou, teorii si může každý nastudovat sám
+samozřejmě se holky samy mohly víc ptát, když jim nebylo něco jasné - na této hodině ale ptaní se nebo diskuze neprobíhala
+taky zásadně nesouhlasím s tím jít zcela mimo zavedené materiály, které jsou společnými silami vylaďované už po X opakováních kurzu, 
+a zejména pokud se to předem nekonzultuje s někým, kdo už lekci v minulosti vedl
