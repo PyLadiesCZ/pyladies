@@ -1,0 +1,28 @@
+lekce 20.11.2017 - hlavni kouc Vojta R.
+použité soubory: https://github.com/vojtechruz/pyladies-7
+
+ústní feedback od účastnic:
++ perfektní byly předpřipravené příklady na githubu, nemusel se opisovat kód
++ super struktura
++ vše dobře vysvětleno
++ zajímavá a obsáhlá hodina, ale nebylo toho přehnaně moc
+
+
+zelené papírky:
++ moc dobře připravené podklady
++ výborný výklad
++ zatím nejlepší hodina co byla! skvělý přístup k výuce, předpřipravené py.soubory mi moc pomohly, díky! :)
+
+
+
+feedback vedlejšího kouče:
++++++++ příklady s testama v gitu!
+++++ komunikace s pyladies: kontrolní otázky
++++ za bonusové úlohy
++++ dobrý a pochopitelný výklad
+- pletení pojmů „pole“, „seznam“ a „slovník“
+- kolem motivace k JSONu jsem z toho nebyl moc moudrý
+- CamelCase názvy testů, proměnných a klíčů
+  (netvrdím, že musíme PyLadies učit PEP8, ale mohli bychom ho aspoň dodržovat, ať se ho učí podvědomě)
+- definuje pojem API jako webové API, což je podle mě matoucí do budoucna
+- to API už bylo moc v rychlosti (zpoždění si taháme z minula)
