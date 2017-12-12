@@ -1,0 +1,19 @@
+lekce Asteroidů s Miro Hrončokem 11.12.2017
+
+samé zelené lístečky:
++ SUPER!
++ moc dobře vysvětlené a zábavné
++ super hodina, přehledný výklad, logická posloupnost. Díky!
++ super lekce, moc mě to bavilo a těším se na pokračování
++ dnes bez výhrad
+
+ústní zpětná vazba:
+bylo to dobré, ale hodně "opisovací", příště snad bude čas i na samostatné zkoušení :)
+
+
+poznámka organizátorky (Zuzejk):
++ před lekcí jsem holkám doporučila zopakovat si pyglet a třídy
++ moc se mi líbilo uvedení projektu, jednak vysvětlení, že dnes se na nic nespěchá, protože se stihne jen část projektu,
+jednak zdůraznění, že je potřeba každou jednotlivou část pochopit, a od Mira pak vysvětlení, že sice hra vypadá pro praxi nepoužitelá,
+ale ve skutečnosti se na ní propojí všechny znalosti a dobře ilustruje práci s objekty
++ aktivní práce s taháky
