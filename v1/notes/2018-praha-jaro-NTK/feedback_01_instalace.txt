@@ -1,0 +1,34 @@
+lekce 7.3.2018 - kouč Iveta Jelenová a Zuzka Válková
+
+zelené lístečky:
+-	super atmosféra! Všichni moc milí a ochotní! Těším se na příště 
+-	hodina se mi líbila
+-	bylo to super, asi bych zatím nic nevytkla
+-	super úžasně skvělé holky v zádech – pomohly ve vším 
+-	fajn, trochu chaotické ale fajn
+-	nemám žádné výhrady k první lekci. Děkuji.
+-	Lístečkový systém super
+-	Vše ok, už se těším na programování
+-	Netřeba se omlouvat za “chaos”, díky za pomoc s instalacemi
+-	Jste super, vždycky jsem věděla, co se děje a když jsem tápala, bylo 	mi pomoženo
+-	Holky děkujeme, bylo to super! Díky za vaši trpělivost a cenné rady 
+-	Vše dobré, trochu pomalejší, ale to se u instalace dá čekat. Těším se 	na příští zábavnější lekci 
+
+červené lístečky:
+-	Prosím pro příští hodinu zvětšit promítáný text
+-	Dlouhé instalace 
+-	Podrobnější návod pro instalaci Pythonu na MAC
+-	Chyběla mi trošku informace, kam až se to naučíme, co vše budeme umět 	na konci
+-	Mluvit víc nahlas (byl mumraj, Ivet byla hůř slyšet)
+
+Komentář kouče:
+-	Přidat do materiálů v místě konce instalace python to, jak si ověřit, 	že instalace proběhla úspěšně (restart, command line -> python --	version). Myslím, že to tam někde je, ale až někde dál.
+
+Komentář hlavního kouče
+-	využily jsme fleshky s instalačními soubory
+-	restaurace U Topolů se osvědčila – mají salonek a udělají rezervaci
+-	stihly se materiály s rezervou, Git jsme neudělaly záměrně, na jednu 	hodinu je toho hodně k instalaci
+- 	pro některé bylo matoucí, že instalace virtuálního prostředí není v 	materiálech nikde přímo v nadpisu a nemohly to pak najít
+-	jedné účastnici nebylo jasné, že když je v materiálech u instalace 	Pythonu napsáno spusť v příkazové řádce příkaz, že to znamená, že za 	tím příkazem má dát enter a také v případě MACu není v materiálech 	napsán mezikrok se zadáním hesla
+
+
