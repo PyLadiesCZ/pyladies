@@ -24,6 +24,8 @@ zelené lístečky:
 Komentář kouče:
 -	Přidat do materiálů v místě konce instalace python to, jak si ověřit, 	že instalace proběhla úspěšně (restart, command line -> python --	version). Myslím, že to tam někde je, ale až někde dál.
 
+- není asi od věci, když první lekci vede spíš někdo se systémem Windows, když většina účastnic používá okna...
+
 Komentář hlavního kouče
 -	využily jsme fleshky s instalačními soubory
 -	restaurace U Topolů se osvědčila – mají salonek a udělají rezervaci
