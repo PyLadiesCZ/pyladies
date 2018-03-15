@@ -1,0 +1,22 @@
+Pozitiva:
+  + věděla jsem, co se děje a když byl problém, bylo mi pomoženo
+  + :-)
+  + počet lektorů a atmosféra
+  + Hodina byla super. Bylo to záživné. Díky
+  + kouči pomáhají, srozumitelné, supr ... !+ těžké představení všech účastníků (netuším, jestli vykřičkník před plus je velké plus ...)
+  + Vše OK! Děkuji
+  + Super, jasná prezentace, dík!
+  + Děkuji všem za pomoc! Děkuji lektorce za tempo, hlídání si nás posluchačů.
+  
+  
+Negativa:
+  - trochu zpomalit, nejde si dělat poznámky a zároveň zkoušet, ale chápu, že není čas
+  - jsem úplný začátečník a chvílemi jsem nestíhala, což je otázka času a praxe
+  - ze zečátku rychlé, jinak super. Vím, že se to tak říká, ale slovo kouč bych nahradila => kouč je přeci jenom někdo, kdo v hovoru vde člověka k jeho cíli, tohle je spíš MENTOR. Ale nevadí, vím, že se to používá i mimo koučování.
+  
+  
+ Za organizátorky/kouče:
+ - problémy s Atomem: plugin pro kontrolu správného stylu zdrojového kódu - linter-flake8 - pořád to na ně červeně cosi "řvalo"
+ - některé holky měly starší notebooky (alias zaslechnuto, že už vlastně NT vůbec nepoužívají :-)) - Atom se pak sekl a už to nerozchodil, tj. pak asi rovnou instalovat Notepad ++
+ - holek dorazilo 23, dost velká skupina
+ 
