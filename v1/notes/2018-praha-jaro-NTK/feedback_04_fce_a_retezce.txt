@@ -1,0 +1,32 @@
+4. lekce proběhla 28. března pod vedením Oskara
+
+Zelené lístečky:
+  - hezké to bylo ... (dokončení na červeném lístečku: ...jen trochu moc pomalé)
+  - bylo to fajn. Díky
+  - dneska to bylo super:-) perfektní spolupráce s pány poradci
+  
+Červené lístečky:
+  - uvítala bych výsledky z domácích projektů
+  - Neuvažovali jste o zveřejnňování domácích projektů? Pro následné prostudování a případné porovnání s tím, co jsme sami vytvořili.
+
+Ostatní:
+- 25 minut se patláme v úkolech z minula. podle mě to je moc
+  - zacházelo se do přilišných technikálií s turtle.speed, které zajímaly jen tazatelku
+  - celkem ta atmosféra na začátku byla dost neakční a připomínala školu
+  - kvůli tomu se pak na konci nestíhalo - .format() se odbyl za 2 minuty a nestihl se slicing
+- příliš malé písmo, tmavá barva na tmavém terminálu (opraveno v průběhu)
+- svítící věci ve vimu mi přijdou spíše rušivé, než k užitku
+  - (např. když chceme ukázat, že funkce se musí nejdřív nadefinovat a ukázat protipříklad a ono to rovnou svítí)
+- na začátku málo práce s lístečkama („už to máte?“)
+- je třeba důsledněji sledovat, jestli stíhají a na zelené lístečky čekat, nebo vyslat pom. kouče
+  (ptala se mě jedna slečna, co že to vlastně děláme, že se ji „teď“ podařilo teprve něco, co jsme dělali 4 věci zpět)
+- koučové vzadu sice šeptají, ale dost to ruší, kdo si chce povídat, měl by jít ven
+  (taky jsem se párkrát přistihl)
+- je třeba razantněji dát vědět, že už se něco ukazuje
+
++ dobrá otázka do pléna, proč děláme return a ne print
++ potom, co začaly kódit, se atmosféra rapidně zlepšila (~možná začít příště kódit dřív)
++ vytištětné materiály s poznámkama
++++ jede podle materiálů a nevymýšlí hlouposti :-)
+
+Po lekci jsme zašli do Restaurace Dole - bylo to tam příjemné a poklidné, vlastně skoro jen pro nás :-). 
