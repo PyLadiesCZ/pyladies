@@ -1,0 +1,13 @@
+Devátá hodina v NTK pod vedením Mira Hrončoka - Testování  (2. května)
+
+Zelené lístečky:
+  + Prima lekce, Miro moc pěkně vysvětluje.
+  + Skvělé a zábavné jako minule.
+  + Super hodina! Díky!
+  + bylo to super jako vždy....
+  + Dneska super, dalo se stíhat psát a zároveň chápat výklad, tempo za mě akorát. Téma - za mě hodně přínosné
+  
+Červené listečky:
+  - .... jen si nejsem jistá, zda jsem pochopila, jak se chytají výjimky => Bude to potřeba?
+  - Možná by bylo lepší psát ze začátku do souboru fce tah,...., protože v příkazové řádce se to špatně sleduje, 
+  ale to je úplný detail. Jinak super!
