@@ -1,0 +1,18 @@
+lekce 23. 5. 2018 - kouč Miro Hrončok
+
+zelené lístečky:
+- Super! Díky
+- líbilo se mi, že dnešní hodina byl opravdu praktický příklad
+- fajn ukázka, jak ukázat, k čemu jsou třídy
+
+
+červené lístečky:
+- dělá se dost věcí najednou a spíše opisuji kód z tabule, než abych se ho snažila vymyslet sama
+- pro procvičování tříd je podle mě grafika zbytečně složitá (i vzhledem k tomu, že jinak jsme třídy neprocvičovaly, a to ani v domácích projektech).
+
+
+
+
+
+
+
