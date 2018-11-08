@@ -1,0 +1,13 @@
+lekce 7. 10. 2018 - kouč Jana Sluková a Petr Messner
+
+zelené lístečky
+- super :)
+- Dneska byl konec velmi zábavný - hra lektor-učenka nahlas byl poučný - přemýšlení nahlas nás taky dobře učí :)
+- ukázka sestavování skriptu postupně (porozumění, jak přistupovat k psaní kódu)
+- cvičení na zopakování minulé hodiny (seznamy)
+
+červené lístečky
+- začínat hodinu informací, k čemu je dané téma užitečné v praxi
+- uvádět více příkladů využitelných v praxi
+- hodně komplexní problematika testování prošlá velmi rychle, ocenila bych více procvičení, lepší vysvětlení, jak testování použít v praxi
+- hodiny jsou stále rychlejší a méně srozumitelné
