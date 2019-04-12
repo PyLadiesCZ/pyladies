@@ -1,0 +1,30 @@
+Hodina z 11. dubna - hlavní kouč Petr Messner
+Zelené lístečky:
++ Začínám tomu rozumět - díky!
++ Petr i pomocníci bezvadní, díky! :-)
++ Líbí se mi pohodová atmosféra na kurzu.
++ Dobré, když je pomalejší tempo při vysvětlování :)
++ Díky za hodinu, byla fajn, ale to opakování jsem myslela, že bude víc výkladové a teoretické, protože některým procesům stále moc nerozumím
++ Můžu Pythonem měnit soubory, to je super. Těším se na další hodinu :)
++ Bylo to fajn opáčko :) 
++ Je fajn si procházet nějaké úkoly (zjistím i jiné způsoby řešení)
++ Vše bylo OK
++ Určitě mi velmi pomohlo, že sme mali viacej času na riešenie domácích úloh na hodine, pretože sa začínajú komplikovať :)
++ Dnes jsem se občas trochu ztrácela, ale nejspíš to bylo mojí absencí na minulé hodině. Libí se mi, když se na nějaké náročné úkoly zaměříme, ale lepší je jen naznačit řešení, protože nejkrásnější je na to přijít sama :) Lenka
++ Na prvú hodinu moc fajn, akurát by bolo asi dobré vysvětlovať jednotlivé kroky viac a obsahlejšie. Je jasné, že Petr to vie, ale nám to eště stále nie je úplně jasné :)  (Pozn: Tím "prvú hodinu" myslí slečna asi Petrovo první hodinu jako kouče dané lekce - Petr holkám řekl, že má tuto hodinu poprvé)
+
+Červené lístečky:
+- Rychlejší kódování při vysvětlování, než jsme zvyklé (ale jen malinké mínus, vše vysvětleno)
+- Občas trochu zmatečný výklad a v jednu chvíli se i jelo moc rychle (třeba zkusit psát pomaleji, ať to stíháme sledovat)
+- Dělala bych raději opakování kratší a každou hodinu - tadyta hodina byla dost dlouhá. Často jsem nechytla, co vlastně děláme. Pokud možno vždy nejdřív jasně říct, čeho chceme dosáhnout. 
+- Přijde mi, že se na kurzu proberou základní věci a v úkolech jsou pak věci o dost složitější - bez znalostí základních principů pak nad úkoly strávím docela dost času a nakonec jsou špatně :)
+- U úkolů na doma mi trochu chybí shrnutí na začátku co se bude dělat celé, tzn. 1) napíšeme tyto funkce, 2) seřadíme?je (nečitelné) 3) na co si dát pozor. A pak teprve úkoly. Musím to nejdřív celé přečíst do konce a pak teprve začít psát, jinak nechápu přesně postup.
+- Více samostatného procvičování
+- Domácí úlohy jsou mnohem náročnější než to, co probíráme během hodiny. Domácí úlohy nejsou na procvičení všeho :) 
+- Prosím víc vysvětlovat nebo komentovat co se zrovna dělá nebo proč -> někdy jsem se trochu ztratila, proč zrovna ten příkaz děláme
+- dnes jsem se trochu ztrácela - příliš časté přepisování kódu
+
+Za organizátorky:
+- Holky začínají nestíhat úkoly - před hodinou jich jen malá část měla správně vyřešené i jen ty povinné.
+- Dnes jsme byly vyjímečně ve velké učebně PC02 místo tradičního vzdělávacího centra. Subjektivně mi atmosféra přišla lepší ve vzděl.centru, učebna je zbytečně velká.
+- V rámci opakování se probíralo pár příkladů z úkolů - vykreslení čtverce z X na for cykly a funkce pro piškvorky (podle ankety na facebooku a dotazů holek na hodině). Pár holek si funkce ukázané Petrem kopírovalo rovnou do úkolů... 
