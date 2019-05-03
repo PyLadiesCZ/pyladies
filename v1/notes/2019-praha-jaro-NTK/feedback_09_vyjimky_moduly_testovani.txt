@@ -10,3 +10,9 @@ Zelené lístečky:
 - Ocenila bych jiné příklady na zkoušení než ty z materiálů (ať máme více šancí si to prozkoušet)
 - Nechápu :-( Ale není to vaše vina :-) 
 - Dnes jsem se moc nechytala, snad se to propojí v budoucnu :-). Nevím, zda je to reálné, ale moc by mi pomohly příklady, konkrétní jednoduché příklady, např. s našimi piškvorkami, kostky apod. 
+
+Za organizátorky:
+- Hodina byla po státním svátku, což se pravděpodobně promítlo v účasti - chybělo 12 holek, z toho jen 3 se dopředu omluvily.
+- Hodně holek je pozadu s úkoly, ale ačkoli měly na začátku (resp. během celé hodiny) prostor se ptát, dotazy téměř nebyly, až na dva ohledně tvorby pole a logiky k hadovi. 
+- U testování zazněl názor, že je složitější a časově náročnější testy napsat, než to otestovat manuálně :), vypadalo to, že je toho na jednu hodinu na holky hodně. 
+- Po hodině se šlo na pivo k Topolům, účast cca polovina holek z lekce a koučové. 
