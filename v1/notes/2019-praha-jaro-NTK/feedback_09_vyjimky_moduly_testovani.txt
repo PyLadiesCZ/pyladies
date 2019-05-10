@@ -16,3 +16,13 @@ Za organizátorky:
 - Hodně holek je pozadu s úkoly, ale ačkoli měly na začátku (resp. během celé hodiny) prostor se ptát, dotazy téměř nebyly, až na dva ohledně tvorby pole a logiky k hadovi. 
 - U testování zazněl názor, že je složitější a časově náročnější testy napsat, než to otestovat manuálně :), vypadalo to, že je toho na jednu hodinu na holky hodně. 
 - Po hodině se šlo na pivo k Topolům, účast cca polovina holek z lekce a koučové. 
+
+Za kouče:
+- Vše z hodiny jsem pak dal na Github: https://github.com/messa/pyladies-materials/tree/b4a40d86ea0bb2a7ca9beb0d2303d4a14f28e996/testovani
+- Speciálně jsem dával pozor, abych vysvětlil, k čemu je testování dobré a v jakých scénářích pomáhá
+  - Jak zaznělo ve feedbacku výše, moc nerozumí, proč ke svým 10 řádkovým programům psát ještě 20 řádek testů :) holt neviděly ještě žádné delší programy.
+- Na začátku hodiny jsme řešili dotazy k úkolům apod.
+- Holky si opisují každou blbost, i když bych byl raději, aby prostě jen dávaly pozor a nechaly mě dokončit nějakou ukázk.
+- Po feedbacku z mé předchozí hodiny jsem se snažil moc nestřídat věci na plátně, aby měli všichni čas si prohlédnout, co zrovna děláme.
+- Na konci hodiny jsem ukázal příklad, jak upravit program s `input()` a `print()`, aby byl lépe testovatelný. Tak snad to použijí u poškvorek.
+- Jedna studentka si sedla tak, že vůbec neviděla, co děláme, i když byla volná místa s mnohem lepším výhledem na plátno. V učebně je bohužel jen jedno plátno.
